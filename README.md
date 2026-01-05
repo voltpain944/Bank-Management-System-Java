@@ -35,7 +35,14 @@ This project demonstrates **Object-Oriented Programming (OOP)** principles and f
 └── .gitignore # Git ignored files
 
 ---
-# ## ▶️ How to Run the Project
+## ▶️ How to Run the Project
 1. Clone the repository  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Bank-Management-System-Java.git
+   git clone https://github.com/voltpain944/Bank-Management-System-Java.git
+   Open Apache NetBeans IDE
+
+2.Import the project (Open Project)
+
+3.Configure MySQL database and update credentials in Conn.java
+
+4.Run Login.java to start the application
